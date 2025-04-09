@@ -1,6 +1,6 @@
-Trabalho da Universidade catolica de brasilia 3º (terceiro) semestre. Segue abaixo as instruções 
+Trabalho da Universidade catolica de brasilia 3º (terceiro) semestre.
 
-Instruções
+Instruções:
 Este trabalho prático tem por finalidade a implementação, em C, de algoritmo para leitura e manipulação de dados formatados de um arquivo texto (csv).
 
 Formato dos dados:
