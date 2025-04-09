@@ -1,4 +1,4 @@
-Trabalho da Universidade catolica de brasilia 3º (terceiro) semestre.
+Trabalho da Universidade catolica de brasilia 3º (terceiro) semestre. Disciplina: Estrutura de dados
 
 Instruções:
 Este trabalho prático tem por finalidade a implementação, em C, de algoritmo para leitura e manipulação de dados formatados de um arquivo texto (csv).
